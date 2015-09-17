@@ -1,0 +1,36 @@
+3dv-streaming-plugin|npnv3dvstreaming|rts|$
+npnv3dv.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dv.dll|$
+7.17.13.5306|$
+1432785275409|0|0|0|$
+NVIDIA 3D Vision plugin for Mozilla browsers|$
+NVIDIA 3D Vision|$
+3
+0|image/jps|JPEG-based stereo image|jps|$
+1|image/pns|PNG-based stereo image|pns|$
+2|image/mpo|Multi-Picture Format image|mpo|$
+NPSPWRAP.DLL|$
+C:\PROGRA~1\MICROS~2\Office15\NPSPWRAP.DLL|$
+15.0.4514.1000|$
+1390335104000|0|0|0|$
+The plugin allows you to have a better experience with Microsoft SharePoint|$
+Microsoft Office 2013|$
+2
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+1|application/x-sharepoint-uc|||$
+npiTools.dll|$
+d:\Program Files (x86)\ThinkSky\iTools 3\Extensions\npiTools.dll|$
+1.0.0.1|$
+1429976929587|0|0|0|$
+npiTools|$
+npiTools 动态链接库|$
+1
+0|application/npitools-plugin|||$
+npAssistComm.dll|$
+C:\Program Files\ICBCEbankTools\ICBCSetupIntegration\npAssistComm.dll|$
+1.0.0.1|$
+1387284070000|0|0|0|$
+npAssistComm Dynamic Link Library|$
+npAssistComm Dynamic Link Library|$
+1
+0|application/x-npassistcomm-plug
